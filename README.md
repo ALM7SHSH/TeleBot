@@ -6,7 +6,7 @@
  
  
  
-**Note : Please add Telegram Bot Version 18.0.0 Lib From NuGet To Make it Work**
+**Note : Please add Telegram Bot Version 18.0.0 From NuGet To Make it Work**
 
 
 > ALM7SHSH
